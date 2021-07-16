@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm GoldTec and this is my profile. Currently i'm testing features and i'm learning to use git and learning some programming languages and learning web developping.
+I'm GoldTec and this is my profile. Currently i'm testing features and i'm learning to use git, some programming languages and learning web developping.
 Wish me luck. It's a long way to go. I'm not going to work in these domains, I just want to learn them as a hobby and passion.
 
 If you want to reach me then you can find me on discord: GoldTec#7488.
