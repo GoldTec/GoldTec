@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ [![Discord Presence](https://lanyard.cnrad.dev/api/218681761381482498)](https://discord.com/users/218681761381482498)
 -->
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/218681761381482498)](https://discord.com/users/218681761381482498)
